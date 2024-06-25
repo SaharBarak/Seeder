@@ -1,5 +1,5 @@
 # Seeder
-# Decentralized Kubernetes Orchestrator Based on P2P Blockchain Network of Mobile Devices
+### Decentralized Kubernetes Orchestrator Based on P2P Blockchain Network of Mobile Devices
 
 This project implements a decentralized Kubernetes orchestrator using a peer-to-peer blockchain network of mobile devices. By leveraging user participation, it provides a cost-free infrastructure for orchestrating containerized applications.
 
